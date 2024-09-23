@@ -18,7 +18,7 @@ MVI is one of the latest state management architecture patterns widely used in A
 While MVI itself is not commonly used in iOS app development, architecture patterns that apply its concepts, such as ReactorKit and The Composable Architecture (TCA), are widely adopted.      
 The roles of each component in MVI are as follows:     
     
-### Model 
+### Model (State)
 In MVVM or other architecture patterns, the Model serves as a link to the data from the server.      
 In contrast, the MVI Model represents the state of the app. Therefore, it’s more common to refer to this as "State" rather than "Model."       
 (Data models that serve as the actual data connection exist separately.)      
