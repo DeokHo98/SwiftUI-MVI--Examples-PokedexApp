@@ -65,7 +65,7 @@ Even for simple functionality, it may be necessary to create multiple files and 
 
 ## Key points in MVI
     
-### State-Centric Design 
+### State Management 
 The View is rendered based on the state, and all state changes must occur through actions called Intent.     
 This state-centric design makes it easier to control the flow of the app.  
      
