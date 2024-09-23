@@ -61,8 +61,8 @@ Even for simple functionality, it may be necessary to create multiple files and 
      
 ## MVI Flow Diagram
      
-<img width="607" alt="스크린샷 2024-09-23 오전 10 10 44" src="https://github.com/user-attachments/assets/cef8c047-8124-4440-a474-7c42a382c3b9">
-    
+<img width="732" alt="스크린샷 2024-09-23 오전 10 12 04" src="https://github.com/user-attachments/assets/c026a2fb-6770-4d85-8d24-704d50566a49">
+
 ## Key points in MVI
     
 ### State-Centric Design 
