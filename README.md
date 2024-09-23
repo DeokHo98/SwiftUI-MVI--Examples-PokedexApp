@@ -61,7 +61,7 @@ Even for simple functionality, it may be necessary to create multiple files and 
      
 ## MVI Flow Diagram
      
-<img width="532" alt="스크린샷 2024-09-23 오전 9 15 30" src="https://github.com/user-attachments/assets/ba36f970-cdc2-404c-8614-3b4819ae8545">
+<img width="607" alt="스크린샷 2024-09-23 오전 10 10 44" src="https://github.com/user-attachments/assets/cef8c047-8124-4440-a474-7c42a382c3b9">
     
 ## Key points in MVI
     
